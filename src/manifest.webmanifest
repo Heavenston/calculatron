@@ -1,0 +1,9 @@
+{
+  "name": "Calculatron",
+  "short_name": "Calculatron",
+  "theme_color": "#a7ff83",
+  "background_color": "#071a52",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
