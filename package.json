@@ -22,6 +22,9 @@
     "build": "parcel build src/index.html"
   },
   "cache": {
+    "disablePlugin": false,
+    "inDev": true,
+    "strategy": "inject",
     "clearDist": false
   }
 }
