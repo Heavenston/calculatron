@@ -31,4 +31,9 @@ transition: border 0.125s, border-radius 0.125s, background-color 0.125s;
   };
   border-radius: 0;
 }
+
+&:focus {
+  border: 0px solid ${props => props.theme.colors.background2};
+  border-radius: ${props => props.theme.borderRadius};
+}
 `;
