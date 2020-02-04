@@ -5,7 +5,7 @@
   "background_color": "#071a52",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/sw.js",
+  "start_url": "/pwabuilder-sw.js",
   "icons": [
     {
       "src": "/icons/Icon.png",
